@@ -8,6 +8,7 @@ bool isPresent(int values[],int length,int toFind){
         }
     }
     return false;
+    
 }
 
 int main(){
