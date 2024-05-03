@@ -15,7 +15,6 @@
 
 //   }
 
-
 // take vetor userinput lenthe and than print vector
 
 // #include <iostream>
@@ -43,3 +42,7 @@
 
 //     return 0;
 // }
+
+
+
+
