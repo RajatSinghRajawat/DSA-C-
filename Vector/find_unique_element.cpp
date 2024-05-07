@@ -8,7 +8,7 @@ int findUniqueElement(vector<int> values){
         uniqueValue = uniqueValue ^ values[i];
     }
     return uniqueValue;
-}
+}  
 
 int main(){
     vector<int>values = {1,1,5,4,4};
