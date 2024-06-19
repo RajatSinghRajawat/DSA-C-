@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    vector<int> value = {1, 2, 2, 3, 6, 4, 4};
+    vector<int> value = {1, 2, 2, 3, 6, 4, 4,2};
     vector<int> duplicates;
 
     sort(value.begin(), value.end());
