@@ -4,14 +4,14 @@ using namespace std;
 int main()
 {
     // method one
-    // int a[5] = { 0, 1, 2, 3, 4};
-    // int max_num = a[0];
-    // for(int i = 1; i < 5; i++){
-    //     if(a[i] > max_num){
-    //         max_num = a[i];
-    //     }
-    // }
-    // cout << max_num << endl;
+    int a[5] = { 0, 1, 2, 3, 4};
+    int max_num = a[0];
+    for(int i = 1; i < 5; i++){
+        if(a[i] > max_num){
+            max_num = a[i];
+        }
+    }
+    cout << max_num << endl;
 
     // method two
 
